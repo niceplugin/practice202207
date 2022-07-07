@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-  <p>깃허브 배포 자동화 어렵구만</p>
+  <p>워크플로 실행시간이 2분이 넘는건 너무한데????</p>
 </template>
 
 <style scoped>
