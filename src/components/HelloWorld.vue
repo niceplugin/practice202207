@@ -10,6 +10,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
+  <p>Cloudflare 짱짱맨인데??????</p>
 </template>
 
 <style scoped>
