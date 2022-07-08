@@ -10,7 +10,6 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-  <p>워크플로 실행시간이 2분이 넘는건 너무한데????</p>
 </template>
 
 <style scoped>
